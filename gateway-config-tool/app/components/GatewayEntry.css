@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    margin: 15px;
+    width: 600px;
+    height: 60px;
+    padding-right: 15px;
+    padding-left: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+.spacer {
+    flex-grow: 1;
+}
+
+.btn {
+    height: 40px;
+}
+
+.item {
+    margin-right: 15px;
+}

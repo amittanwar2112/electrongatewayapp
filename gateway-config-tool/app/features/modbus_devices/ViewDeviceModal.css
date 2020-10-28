@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    width: 600px;
+    flex-wrap: wrap;
+    color: black;
+    gap: 10px;
+}
+
+.item {
+    margin: 10px;
+    flex-basis: 500px;
+    flex-grow: 1;
+}

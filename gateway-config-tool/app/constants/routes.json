@@ -1,0 +1,7 @@
+{
+  "HOME": "/",
+  "COUNTER": "/counter",
+  "GATEWAY_CONFIG": "/gateway_config",
+  "MODBUS_CONFIG": "/modbus_config",
+  "FIRMWARE_UPDATE": "/firmware_update"
+}
